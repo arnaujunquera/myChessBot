@@ -1,4 +1,4 @@
 # Chess Coding Challenge (C#)
-This is my implementation for @SebLague's Chess Coding Challenge (see the [original repo](https://github.com/SebLague/Chess-Challenge)). Submissions are now closed and I'm just doing this to learn and have fun. The challenge consists in implementing the ```think``` function declared in MyBot.cs file (located in _src/MyBot_).
+This is my implementation for @SebLague's Chess Coding Challenge (see the [original repo](https://github.com/SebLague/Chess-Challenge)). Submissions are now closed and I'm working on this project for learning and enjoyment. The challenge involves implementing the ```think``` function declared in MyBot.cs file (located in _src/MyBot_).
 
-The project is still in progress and I'll be improving it in the next weeks.
+The project is still a work in progress, and I plan to make improvements over the next few weeks.
